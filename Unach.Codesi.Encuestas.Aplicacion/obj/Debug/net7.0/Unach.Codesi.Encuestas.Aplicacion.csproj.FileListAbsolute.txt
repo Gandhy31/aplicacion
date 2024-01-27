@@ -1,0 +1,15 @@
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\bin\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.deps.json
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\bin\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.dll
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\bin\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.pdb
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.AssemblyInfo.cs
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.dll
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\refint\Unach.Codesi.Encuestas.Aplicacion.dll
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.pdb
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\ref\Unach.Codesi.Encuestas.Aplicacion.dll
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\bin\Debug\net7.0\Unach.Codesi.Encuestas.Persistencia.Core.dll
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\bin\Debug\net7.0\Unach.Codesi.Encuestas.Persistencia.Core.pdb
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Aplicacion\obj\Debug\net7.0\Unach.Codesi.Encuestas.Aplicacion.csproj.CopyComplete
